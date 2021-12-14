@@ -1,4 +1,5 @@
-# docker_proxy
+# Docker Proxy
+## Docker-Powered Web Development Utilizing HTTPS and Local Domain Names
 
 1. Clone repo inside the folder where docker-compose.yml is
     ```bash
