@@ -19,7 +19,7 @@
             - "443:443" # https
       ```
       
-3. Go inside the foler of the repo open file default.conf and start adding prothing path to your services!
+3. Go inside the foler of the repo open file default.conf and the poxy pass to your services!
    ```nginx configuration file
     # Sevices url mapping goes here:
     location /user {
