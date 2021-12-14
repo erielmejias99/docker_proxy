@@ -21,7 +21,7 @@
       
 3. Go inside the foler of the repo open file default.conf and start adding prothing path to your services!
    ```nginx configuration file
-    # Sevices url mappgin goes here:
+    # Sevices url mapping goes here:
     location /user {
         include /etc/nginx/includes/proxy.conf;
         proxy_pass http://user_service:4000;
